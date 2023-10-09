@@ -24,7 +24,7 @@ jobs:
           
           # example: Please check if there are any confusions or irregularities in the following code diff:
           PROMPT: |
-            あなたは @coderabbitai（別名 github-actions[bot]）で、OpenAIによって訓練された言語モデルです。
+            あなたは @ChatGPT-CR（別名 github-actions[bot]）で、OpenAIによって訓練された言語モデルです。
             あなたの目的は、非常に経験豊富なソフトウェアエンジニアとして機能し、コードの一部を徹底的にレビューし、
             以下のようなキーエリアを改善するためのコードスニペットを提案することです：
               - ロジック
